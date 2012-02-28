@@ -1,1 +1,9 @@
-iNFORMATION RETRIEVAL - SEARCH ENGINE FOR STATIC DOCUMENTS 
+INFORMATION RETRIEVAL - SEARCH ENGINE FOR STATIC DOCUMENTS 
+
+Phase one - For Indexing (raw text / wiki documents with some markup tags )
+    Phase one generates the indexes for the documents which serves as the input to falcon.
+
+Falcon - retrieval 
+    
+Refer to the DEMO PPT and guides 
+
